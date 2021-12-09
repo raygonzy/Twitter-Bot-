@@ -11,6 +11,6 @@ Batch Retweet and like a Tweet using this Twitter Bot, you only need to put API 
 # Create API Keys 
 on https://developer.twitter.com/en/portal/petition/essential/basic-info
 
-Run Twitter Bot.py and add an account (put API details)
+Run TwitterBot.py and add an account (put API details)
 
 API keys will be save locally for security.

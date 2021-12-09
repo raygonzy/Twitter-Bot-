@@ -1,5 +1,5 @@
 # Twitter-Bot-
-Batch Retweet and like a Tweet using this Twitter Bot, you only need to put API keys of your account and you're good to go. 
+Batch Retweet and like using this Twitter Bot, you only need to put API keys of your account and you're good to go. 
 
 
 # Install packages using cmd 

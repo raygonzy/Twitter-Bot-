@@ -18,4 +18,4 @@ API keys will be save locally for security.
 ----------------------------
 # Watch Sample
 
-Sample/app_sample.mp4
+./Sample/app_sample.mp4

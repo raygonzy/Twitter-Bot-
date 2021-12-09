@@ -14,3 +14,8 @@ on https://developer.twitter.com/en/portal/petition/essential/basic-info
 Run TwitterBot.py and add an account (put API details)
 
 API keys will be save locally for security.
+
+----------------------------
+# Watch Sample
+
+Sample/app_sample.mp4

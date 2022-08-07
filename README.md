@@ -7,7 +7,7 @@ Batch Retweet and like using this Twitter Bot, you only need to put API keys of 
  2. pip install screeninfo
  3. pip install PyQt5
 
------------------------------
+----------------------------
 # Create API Keys 
 on https://developer.twitter.com/en/portal/petition/essential/basic-info
 
